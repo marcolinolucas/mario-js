@@ -22,6 +22,8 @@ Probably this is the first game of many others I will make for him 😜
 
 Here is the [link](https://mario-js-two.vercel.app) of online project
 
+Obs: To jump just press the up arrow or the space bar on the keyboard.
+
 ## 🗒 Index
 
 - [Technologies](#technologies)
